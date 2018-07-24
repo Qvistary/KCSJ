@@ -1,0 +1,7 @@
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TS.Pass.resources
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TS.Properties.Resources.resources
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TS.Pass.zh-CN.resources
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TI.csproj.GenerateResource.cache
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TI.csproj.CoreCompileInputs.cache
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TS.exe
+C:\Users\Qin\Desktop\X_TS\X_TS\X_TS\obj\Debug\X_TS.pdb
